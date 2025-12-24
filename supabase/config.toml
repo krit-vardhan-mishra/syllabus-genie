@@ -1,0 +1,7 @@
+project_id = "oreiqlxvxmswlckatetm"
+
+[functions.analyze-syllabus]
+verify_jwt = true
+
+[functions.syllabus-chat]
+verify_jwt = true
